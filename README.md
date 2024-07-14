@@ -1,4 +1,11 @@
-# machine_learning_regression
+# Car Price Prediction
+
+# About Dataset
+The dataset [car_price.csv](https://github.com/mhaffizhhh/Car_Price_Prediction/blob/main/car_price.csv) is a collection of data on car prices, containing details about the cars being sold. 
+I will create a regression model to predict the price of a car based on its condition. 
+Then, I will evaluate the models to determine which algorithm performs best in predicting the prices.
+
+
 
 Here I will make predictions on the car_price.csv dataset using a regression model. Why use regression?
 Because the dependent variable is of a numerical type, regression can be used to make predictions. There are several types of regression models
